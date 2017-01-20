@@ -1,3 +1,6 @@
+#Forked (2017-01-20)
+Need to add the working directory config option for [winsw](https://github.com/kohsuke/winsw). Had to update winsw executable as well to version 2.0.1.
+
 # Update (5/21/15)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/coreybutler/node-windows?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

@@ -1,5 +1,5 @@
 {
-  "name": "node-windows",
+  "name": "node-windows-rinkink",
   "version": "0.1.12",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
@@ -15,6 +15,10 @@
     "task"
   ],
   "author": "Corey Butler <corey@coreybutler.com>",
+  "contributors":[ {
+    "name" : "Floris Coetzee"
+   }],
+
   "devDependencies": {},
   "main": "lib/node-windows.js",
   "os": [
@@ -28,7 +32,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
+    "url": "git://github.com/Rinkink/node-windows.git"
   },
   "license": "MIT",
   "engine": "node >= 0.10.10"
